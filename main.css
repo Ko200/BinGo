@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+input[type="number"]
+{
+    border: none;
+    height: 55px;
+    border-radius: 20px;
+}
+input[type="number"]:focus
+{
+    border: none;
+    
+}
+.bold
+{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow: none;
+}
